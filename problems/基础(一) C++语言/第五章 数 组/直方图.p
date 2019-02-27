@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1115：直方图</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6687     通过数: 4562 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1115：直方图</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6692     通过数: 4567 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给定一个非负整数数组，统计里面每一个数的出现次数。我们只统计到数组里最大的数。 </p><p>
 假设 Fmax（Fmax&lt;10000）是数组里最大的数，那么我们只统计{0,1,2.....Fmax}里每个数出现的次数。</p><p>
 </p>

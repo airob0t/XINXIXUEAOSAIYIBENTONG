@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1186：出现次数超过一半的数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 4191     通过数: 1973 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1186：出现次数超过一半的数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 4192     通过数: 1974 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给出一个含有n（0 &lt; n ≤ 1000）个整数的数组，请找出其中出现次数超过一半的数。数组中的数大于-50且小于50。</p>
 <h3>【输入】</h3>
 <p>第一行包含一个整数n，表示数组大小；</p><p>

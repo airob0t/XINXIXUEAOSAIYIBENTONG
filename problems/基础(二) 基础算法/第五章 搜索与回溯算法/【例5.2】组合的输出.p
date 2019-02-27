@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1317：【例5.2】组合的输出</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 5886     通过数: 2715 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1317：【例5.2】组合的输出</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 5920     通过数: 2729 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>排列与组合是常用的数学方法，其中组合就是从n个元素中抽出r个元素(不分顺序且r≤n)，我们可以简单地将n个元素理解为自然数1，2，…，n，从中任取r个数。</p><p>
 现要求你用递归的方法输出所有组合。</p><p>
 例如n＝5，r＝3，所有组合为：</p><p>

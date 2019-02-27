@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1002：输出第二个整数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 30300     通过数: 23120 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1002：输出第二个整数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 30306     通过数: 23126 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>输入三个整数，整数之间由一个空格分隔，整数是32位有符号整数。把第二个输入的整数输出。</p>
 <h3>【输入】</h3>
 <p>只有一行，共三个整数，整数之间由一个空格分隔。整数是32位有符号整数。</p><p>

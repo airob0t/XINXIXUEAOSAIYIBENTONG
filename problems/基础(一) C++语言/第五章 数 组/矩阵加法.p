@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1124：矩阵加法</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6763     通过数: 4508 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1124：矩阵加法</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6765     通过数: 4511 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>输入两个n行m列的矩阵A和B，输出它们的和A+B。</p>
 <h3>【输入】</h3>
 <p> 第一行包含两个整数n和m，表示矩阵的行数和列数(1≤n≤100，1≤m≤100)。</p><p>

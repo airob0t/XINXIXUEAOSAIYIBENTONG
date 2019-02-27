@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1176：谁考了第k名</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 9609     通过数: 4009 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1176：谁考了第k名</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 9617     通过数: 4012 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>在一次考试中，每个学生的成绩都不相同，现知道了每个学生的学号和成绩，求考第k名学生的学号和成绩。</p>
 <h3>【输入】</h3>
 <p>第一行有两个整数，分别是学生的人数n（1≤n≤100），和求第k名学生的k（1≤k≤n）。</p><p>

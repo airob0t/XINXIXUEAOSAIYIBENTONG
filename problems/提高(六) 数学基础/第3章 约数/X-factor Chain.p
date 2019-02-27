@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1628：X-factor Chain</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 524288 KB<br/>提交数: 32     通过数: 18 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1628：X-factor Chain</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 524288 KB<br/>提交数: 33     通过数: 19 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>原题来自 POJ 3421</p><p>
 输入正整数 $x$，求 $x$ 的大于 $1$ 的因子组成的满足任意前一项都能整除后一项的序列的最大长度，以及满足最大长度的序列的个数。</p>
 <h3>【输入】</h3>

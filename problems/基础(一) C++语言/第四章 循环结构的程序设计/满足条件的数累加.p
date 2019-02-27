@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1066：满足条件的数累加</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 10884     通过数: 9153 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1066：满足条件的数累加</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 10894     通过数: 9160 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>将正整数m和n之间(包括m和n)能被17整除的数累加，其中0&lt;m&lt;n&lt;1000。</p>
 <h3>【输入】</h3>
 <p> 一行，包含两个整数m和n，其间，以一个空格间隔。</p>

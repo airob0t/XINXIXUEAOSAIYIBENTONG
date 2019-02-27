@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1378：最短路径(shopth)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 1440     通过数: 523 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1378：最短路径(shopth)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 1445     通过数: 525 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给出一个有向图G=(V, E)，和一个源点v0∈V，请写一个程序输出v0和图G中其它顶点的最短路径。只要所有的有向环权值和都是正的，我们就允许图的边有负值。顶点的标号从1到n（n为图G的顶点数）。</p>
 <h3>【输入】</h3>
 <p>第1行：一个正数n（2≤n≤80），表示图G的顶点总数。</p><p>

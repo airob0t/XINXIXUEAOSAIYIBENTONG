@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1627：【例 3】最大公约数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 524288 KB<br/>提交数: 138     通过数: 23 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1627：【例 3】最大公约数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 524288 KB<br/>提交数: 139     通过数: 23 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给出两个正整数 $A,B$，求它们的最大公约数。</p>
 <h3>【输入】</h3>
 <p>输入共两行，第一行一个正整数 $A$，第二行一个正整数 $B$。</p>

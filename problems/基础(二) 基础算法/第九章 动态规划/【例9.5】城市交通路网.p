@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1261：【例9.5】城市交通路网</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 1551     通过数: 1152 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1261：【例9.5】城市交通路网</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 1553     通过数: 1154 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>下图表示城市之间的交通路网，线段上的数字表示费用，单向通行由A-&gt;E。试用动态规划的最优化原理求出A-&gt;E的最省费用。</p><p>
 <img src="pic/1287.gif"/></p><p>
 如图：求v1到v10的最短路径长度及最短路径。</p>

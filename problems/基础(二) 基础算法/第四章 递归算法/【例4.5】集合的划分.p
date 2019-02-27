@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1315：【例4.5】集合的划分</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3870     通过数: 1489 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1315：【例4.5】集合的划分</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3874     通过数: 1491 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>设S是一个具有n个元素的集合，$S＝\langle a_1，a_2，……，a_n \rangle$，现将S划分成k个满足下列条件的子集合$S_1，S_2，……，S_k$ ，且满足：</p><p>
 1．$S_i ≠ ∅$</p><p>
 2．$S_i ∩ S_j ＝ ∅$            ($1≤i，j≤k，i≠j$)</p><p>

@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1311：【例2.5】求逆序对</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 7448     通过数: 1616 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1311：【例2.5】求逆序对</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 7488     通过数: 1621 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给定一个序列$a_1,a_2,…,a_n$，如果存在$i&lt;j$并且$a_i&gt;a_j$，那么我们称之为逆序对，求逆序对的数目。</p>
 <h3>【输入】</h3>
 <p>第一行为$n$,表示序列长度，接下来的$n$行，第$i+1$行表示序列中的第$i$个数。</p>

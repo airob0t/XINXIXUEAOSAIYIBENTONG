@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1234：2011</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2308     通过数: 900 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1234：2011</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2310     通过数: 900 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>已知长度最大为200位的正整数n，请求出2011<sup>n</sup>的后四位。</p>
 <h3>【输入】</h3>
 <p>第一行为一个正整数k，代表有k组数据（k≤200），接下来的k行，每行都有一个正整数n，n的位数≤200。</p><p>

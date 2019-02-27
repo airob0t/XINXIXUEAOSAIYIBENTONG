@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1071：菲波那契数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 17173     通过数: 9024 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1071：菲波那契数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 17176     通过数: 9027 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>菲波那契数列是指这样的数列: 数列的第一个和第二个数都为1，接下来每个数都等于前面2个数之和。给出一个正整数k，要求菲波那契数列中第k个数是多少。</p>
 <h3>【输入】</h3>
 <p>输入一行，包含一个正整数k。（1 ≤ k ≤ 46）</p>

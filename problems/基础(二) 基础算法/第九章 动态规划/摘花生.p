@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1284：摘花生</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 1665     通过数: 1124 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1284：摘花生</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 1669     通过数: 1125 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>Hello Kitty想摘点花生送给她喜欢的米老鼠。她来到一片有网格状道路的矩形花生地(如下图)，从西北角进去，东南角出来。地里每个道路的交叉点上都有种着一株花生苗，上面有若干颗花生，经过一株花生苗就能摘走该它上面所有的花生。Hello Kitty只能向东或向南走，不能向西或向北走。问Hello Kitty最多能够摘到多少颗花生。</p><p>
 <img src="pic/1261.gif"/></p>
 <h3>【输入】</h3>

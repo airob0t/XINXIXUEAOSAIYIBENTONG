@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1019：浮点数向零舍入</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 13570     通过数: 10403 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1019：浮点数向零舍入</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 13574     通过数: 10407 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>输入一个单精度浮点数，将其向零舍入到整数。说明：向零舍入的含义是，正数向下舍入，负数向上舍入。提示：可以使用强制类型转换来实现。</p><p>
 </p><p>
 </p>

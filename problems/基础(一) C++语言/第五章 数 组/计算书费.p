@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1104：计算书费</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 10240     通过数: 7470 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1104：计算书费</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 10244     通过数: 7472 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>下面是一个图书的单价表：</p><p>
 计算概论 28.9元/本</p><p>
 数据结构与算法 32.7元/本</p><p>

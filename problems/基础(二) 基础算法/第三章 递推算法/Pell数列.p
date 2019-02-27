@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1189：Pell数列</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 5112     通过数: 2583 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1189：Pell数列</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 5114     通过数: 2584 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>Pell数列$a_1,a_2,a_3, ...$的定义是这样的，$a_1 = 1, a_2 = 2, ... , a_n = 2 a_{n−1} + a_{n-2}(n&gt;2)$。</p><p>
 给出一个正整数k，要求Pell数列的第k项模上32767是多少。</p><p>
 </p>

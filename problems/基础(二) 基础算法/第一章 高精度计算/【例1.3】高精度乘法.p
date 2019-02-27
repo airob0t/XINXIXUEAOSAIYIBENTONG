@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1307：【例1.3】高精度乘法</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8714     通过数: 2993 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1307：【例1.3】高精度乘法</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8727     通过数: 3000 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>输入两个高精度正整数M和N（M和N均小于100位）。求这两个高精度数的积。</p>
 <h3>【输入】</h3>
 <p>输入两个高精度正整数M和N。</p>

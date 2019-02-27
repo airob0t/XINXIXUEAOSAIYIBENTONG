@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1620：质因数分解</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 524288 KB<br/>提交数: 258     通过数: 161 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1620：质因数分解</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 524288 KB<br/>提交数: 259     通过数: 162 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>原题来自：NOIP 2012 普及组</p><p>
 已知正整数 $n$ 是两个不同的质数的乘积，试求出较大的那个质数。</p>
 <h3>【输入】</h3>

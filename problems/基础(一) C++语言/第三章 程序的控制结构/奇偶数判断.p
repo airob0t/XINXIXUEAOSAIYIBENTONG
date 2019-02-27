@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1041：奇偶数判断</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 17728     通过数: 13028 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1041：奇偶数判断</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 17730     通过数: 13030 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>  给定一个整数，判断该数是奇数还是偶数。如果n是奇数，输出odd；如果n是偶数，输出even。 </p>
 <h3>【输入】</h3>
 <p> 输入仅一行，一个大于零的正整数n。</p>

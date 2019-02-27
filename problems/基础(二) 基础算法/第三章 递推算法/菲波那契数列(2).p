@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1188：菲波那契数列(2)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8224     通过数: 2973 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1188：菲波那契数列(2)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8227     通过数: 2974 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>菲波那契数列是指这样的数列: 数列的第一个和第二个数都为1，接下来每个数都等于前面2个数之和。</p><p>
 给出一个正整数a，要求菲波那契数列中第a个数对1000取模的结果是多少。</p><p>
 </p>

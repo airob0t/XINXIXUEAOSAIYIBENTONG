@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1154：亲和数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6199     通过数: 3817 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1154：亲和数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6201     通过数: 3820 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>自然数a的因子是指能整除a的所有自然数，但不含a本身。例如12的因子为：1,2,3,4,6。若自然数a的因子之和为b，而且b的因子之和又等于a，则称a,b为一对“亲和数” 。求最小的一对亲和数(a&lt;&gt;b)。 </p>
 <h3>【输入】</h3>
 <p>(无）</p>

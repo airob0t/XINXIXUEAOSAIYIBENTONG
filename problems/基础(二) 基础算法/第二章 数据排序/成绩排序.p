@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1178：成绩排序</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8337     通过数: 3203 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1178：成绩排序</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8350     通过数: 3207 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给出班里某门课程的成绩单，请你按成绩从高到低对成绩单排序输出，如果有相同分数则名字字典序小的在前。</p>
 <h3>【输入】</h3>
 <p>第一行为n (0 &lt; n &lt; 20)，表示班里的学生数目；</p><p>

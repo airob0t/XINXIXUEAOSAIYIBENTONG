@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1006：A+B问题</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 66536 KB<br/>提交数: 26135     通过数: 20102 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1006：A+B问题</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 66536 KB<br/>提交数: 26150     通过数: 20114 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>大部分的在线题库，都会将A+B问题作为第一题，以帮助新手熟悉平台的使用方法。</p><p>
 A+B问题的题目描述如下：给定两个整数A和B，输出A+B的值。保证A、B及结果均在整型范围内。现在请你解决这一问题。</p><p>
 </p>

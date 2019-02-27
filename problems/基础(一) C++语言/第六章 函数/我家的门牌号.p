@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1404：我家的门牌号</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3795     通过数: 2622 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1404：我家的门牌号</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3796     通过数: 2623 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>我家住在一条短胡同里，这条胡同的门牌号从1开始顺序编号。</p><p>
 若其余各家的门牌号之和减去我家门牌号的两倍，恰好等于n，求我家的门牌号及总共有多少家。数据保证有唯一解。</p>
 <h3>【输入】</h3>

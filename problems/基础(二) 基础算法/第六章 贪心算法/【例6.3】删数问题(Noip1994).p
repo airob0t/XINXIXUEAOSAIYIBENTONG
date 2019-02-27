@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1321：【例6.3】删数问题(Noip1994)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 5465     通过数: 1704 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1321：【例6.3】删数问题(Noip1994)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 5469     通过数: 1704 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>输入一个高精度的正整数n，去掉其中任意s个数字后剩下的数字按原左右次序组成一个新的正整数。编程对给定的n和s，寻找一种方案使得剩下的数字组成的新数最小。</p><p>
 输出新的正整数。（n不超过240位）</p><p>
 输入数据均不需判错。</p>

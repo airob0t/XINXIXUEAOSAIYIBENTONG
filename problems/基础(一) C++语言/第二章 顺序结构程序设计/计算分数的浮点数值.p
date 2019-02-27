@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1010：计算分数的浮点数值</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 27045     通过数: 16280 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1010：计算分数的浮点数值</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 27048     通过数: 16283 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p> 两个整数a和b分别作为分子和分母，既分数a/b，求它的浮点数值(双精度浮点数，保留小数点后9位)。</p>
 <h3>【输入】</h3>
 <p>输入仅一行，包括两个整数a和b。</p>

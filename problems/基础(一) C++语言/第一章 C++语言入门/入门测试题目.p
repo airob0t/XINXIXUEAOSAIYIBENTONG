@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1000：入门测试题目</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 32768 KB<br/>提交数: 47102     通过数: 28797 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1000：入门测试题目</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 32768 KB<br/>提交数: 47120     通过数: 28811 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>求两个整数的和。</p>
 <h3>【输入】</h3>
 <p>一行，两个用空格隔开的整数。</p><p>

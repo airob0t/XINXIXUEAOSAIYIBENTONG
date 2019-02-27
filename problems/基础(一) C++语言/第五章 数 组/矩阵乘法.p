@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1125：矩阵乘法</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6726     通过数: 3359 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1125：矩阵乘法</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6727     通过数: 3361 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>计算两个矩阵的乘法。n×m阶的矩阵A乘以m×k阶的矩阵B得到的矩阵C 是n×k阶的，且C[i][j] = A[i][0]×B[0][j] + A[i][1]×B[1][j] + …… +A[i][m-1]×B[m-1][j](C[i][j]表示C矩阵中第i行第j列元素)。</p>
 <h3>【输入】</h3>
 <p>第一行为n, m, k，表示A矩阵是n行m列，B矩阵是m行k列，n, m, k均小于100。</p><p>

@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1150：求正整数2和n之间的完全数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8465     通过数: 5154 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1150：求正整数2和n之间的完全数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8469     通过数: 5157 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>求正整数$2$和$n$之间的完全数(一行一个数)。</p><p>
 完全数：因子之和等于它本身的自然数，如$6=1+2+3$</p>
 <h3>【输入】</h3>

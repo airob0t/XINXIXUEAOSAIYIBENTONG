@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1007：计算(a+b)×c的值</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 24237     通过数: 19865 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1007：计算(a+b)×c的值</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 24273     通过数: 19894 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给定$3$个整数$a、b、c$，计算表达式$(a+b)×c$的值。</p><p>
 </p><p>
 </p>

@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1005：地球人口承载力估计</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 24044     通过数: 13725 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1005：地球人口承载力估计</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 24050     通过数: 13729 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>假设地球上的新生资源按恒定速度增长。照此测算，地球上现有资源加上新生资源可供x亿人生活a年，或供y亿人生活b年。</p><p>
 为了能够实现可持续发展，避免资源枯竭，地球最多能够养活多少亿人？</p><p>
 </p>

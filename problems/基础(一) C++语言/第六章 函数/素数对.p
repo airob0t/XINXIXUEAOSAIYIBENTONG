@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1403：素数对</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3534     通过数: 2624 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1403：素数对</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3535     通过数: 2625 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>两个相差为2的素数称为素数对，如5和7，17和19等，本题目要求找出所有两个数均不大于n的素数对。</p>
 <h3>【输入】</h3>
 <p>一个正整数n(1≤n≤10000)。</p>

@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1173：阶乘和</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2584     通过数: 1324 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1173：阶乘和</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2587     通过数: 1325 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>用高精度计算出$S=1!+2!+3!+…+n!（n≤50）$,其中“$!$”表示阶乘，例如：$5!=5×4×3×2×1$。</p><p>
 输入正整数$n$，输出计算结果$S$。</p><p>
 </p>

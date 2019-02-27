@@ -1,0 +1,1 @@
+<table border="1" bordercolor="#a0c6e5" style="border-collapse:collapse;"><tr><td>课号</td><td>先修课号</td><td>学分</td></tr><tr><td>1</td><td>无</td><td>1</td></tr><tr><td>2</td><td>1</td><td>1</td></tr><tr><td>3</td><td>2</td><td>3</td></tr><tr><td>4</td><td>无</td><td>3</td></tr><tr><td>5</td><td>2</td><td>4</td></tr></table>

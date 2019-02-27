@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1364：二叉树遍历(flist)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 807     通过数: 511 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1364：二叉树遍历(flist)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 808     通过数: 512 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>树和二叉树基本上都有先序、中序、后序、按层遍历等遍历顺序，给定中序和其它一种遍历的序列就可以确定一棵二叉树的结构。</p><p>
 假定一棵二叉树一个结点用一个字符描述，现在给出中序和按层遍历的字符串，求该树的先序遍历字符串。</p><p>
 </p>

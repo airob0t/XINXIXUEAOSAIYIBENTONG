@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1449：【例题2】魔板</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 164     通过数: 76 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1449：【例题2】魔板</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 168     通过数: 77 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>在成功地发明了魔方之后，拉比克先生发明了它的二维版本，称作魔板。这是一张有8个大小相同的格子的魔板：</p><p> </p>
 <font size="3"><div style="padding-left:24px;"><pre>1 2 3 4
 8 7 6 5</pre></div><font size="2"><p></p><p>

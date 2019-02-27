@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1181：整数奇偶排序</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3832     通过数: 2387 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1181：整数奇偶排序</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3834     通过数: 2388 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给定10个整数的序列，要求对其重新排序。排序要求:</p><p>
 1.奇数在前，偶数在后；</p><p>
 2.奇数按从大到小排序； </p><p>

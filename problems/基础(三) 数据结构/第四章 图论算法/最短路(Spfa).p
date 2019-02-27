@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1382：最短路(Spfa)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2409     通过数: 677 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1382：最短路(Spfa)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2410     通过数: 677 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给定 $M$ 条边， $N$ 个点的带权无向图。求 $1 $到 $N$ 的最短路。</p><p>
 </p>
 <h3>【输入】</h3>

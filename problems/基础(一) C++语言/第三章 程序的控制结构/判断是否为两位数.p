@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1044：判断是否为两位数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 16675     通过数: 11934 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1044：判断是否为两位数</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 16677     通过数: 11936 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>判断一个正整数是否是两位数(即大于等于10且小于等于99)。若该正整数是两位数，输出1，否则输出0。</p>
 <h3>【输入】</h3>
 <p>一个正整数，不超过1000。</p>

@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1318：【例5.3】自然数的拆分</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3970     通过数: 2387 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1318：【例5.3】自然数的拆分</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3981     通过数: 2393 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>任何一个大于1的自然数n，总可以拆分成若干个小于n的自然数之和。</p><p>
 当n=7共14种拆分方法：</p><p> </p>
 <font size="3"><div style="padding-left:24px;"><pre>7=1+1+1+1+1+1+1

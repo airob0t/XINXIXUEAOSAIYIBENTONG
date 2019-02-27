@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1018：其他数据类型存储空间大小</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 11577     通过数: 10108 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1018：其他数据类型存储空间大小</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 11580     通过数: 10111 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>分别定义bool，char类型的变量各一个，并依次输出它们的存储空间大小(单位：字节)。</p><p>
 </p><p>
 </p>

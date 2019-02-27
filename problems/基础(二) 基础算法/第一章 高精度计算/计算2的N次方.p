@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1170：计算2的N次方</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 4411     通过数: 2304 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1170：计算2的N次方</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 4424     通过数: 2308 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>任意给定一个正整数N(N≤100)，计算2的n次方的值。</p>
 <h3>【输入】</h3>
 <p>输入一个正整数N。</p>

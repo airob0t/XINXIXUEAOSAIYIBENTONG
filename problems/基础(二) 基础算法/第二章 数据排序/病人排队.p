@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1183：病人排队</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 4963     通过数: 2081 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1183：病人排队</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 4977     通过数: 2084 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>病人登记看病，编写一个程序，将登记的病人按照以下原则排出看病的先后顺序： </p><p>
 1.老年人（年龄 &gt;= 60岁）比非老年人优先看病。 </p><p>
 2.老年人按年龄从大到小的顺序看病，年龄相同的按登记的先后顺序排序。 </p><p>

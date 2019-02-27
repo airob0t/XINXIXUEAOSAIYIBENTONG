@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1120：同行列对角线的格</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 9879     通过数: 4158 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1120：同行列对角线的格</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 9883     通过数: 4160 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p> 输入三个自然数N，i，j（1≤i≤n，1≤j≤n），输出在一个N*N格的棋盘中(行列均从1开始编号)，与格子(i，j)同行、同列、同一对角线的所有格子的位置。</p><p>
 如：n=4，i=2，j=3表示了棋盘中的第二行第三列的格子，</p><p>
 当n=4，i=2，j=3时，输出的结果是：</p><p>

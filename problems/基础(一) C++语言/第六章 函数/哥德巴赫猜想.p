@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1157：哥德巴赫猜想</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 5901     通过数: 3471 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1157：哥德巴赫猜想</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 5902     通过数: 3472 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>哥德巴赫猜想的命题之一是:大于6 的偶数等于两个素数之和。编程将6～100所有偶数表示成两个素数之和。</p>
 <h3>【输入】</h3>
 <p>(无）</p>

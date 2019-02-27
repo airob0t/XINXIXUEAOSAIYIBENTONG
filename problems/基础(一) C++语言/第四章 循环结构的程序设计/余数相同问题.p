@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1080：余数相同问题</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8496     通过数: 5750 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1080：余数相同问题</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8498     通过数: 5752 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>已知三个正整数a，b，c。现有一个大于1的整数x，将其作为除数分别除a，b，c，得到的余数相同。</p><p>
 请问满足上述条件的x的最小值是多少？数据保证x有解。</p><p>
 </p>

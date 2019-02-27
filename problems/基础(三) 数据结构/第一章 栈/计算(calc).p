@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1356：计算(calc)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 1518     通过数: 571 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1356：计算(calc)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 1521     通过数: 572 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>小明在你的帮助下，破密了Ferrari设的密码门，正要往前走，突然又出现了一个密码门，门上有一个算式，其中只有“(”，“)”，“0-9”，“+”，“-”，“*”，“/”，“^”，求出的值就是密码。小明数学学得不好，还需你帮他的忙。(“/”用整数除法)</p>
 <h3>【输入】</h3>
 <p>共1行，为一个算式。</p>

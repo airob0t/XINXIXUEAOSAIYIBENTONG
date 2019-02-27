@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1441：【例题2】生日蛋糕</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 288     通过数: 146 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1441：【例题2】生日蛋糕</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 289     通过数: 147 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>7月17日是Mr.W的生日，ACM-THU为此要制作一个体积为Nπ的M层生日蛋糕，每层都是一个圆柱体。设从下往上数第i(1≤i≤M)层蛋糕是半径为Ri, 高度为Hi的圆柱。当i＜M时，要求Ri&gt;Ri+1且Hi&gt;Hi+1。由于要在蛋糕上抹奶油，为尽可能节约经费，我们希望蛋糕外表面（最下一层的下底面除外）的面积Q最小。</p><p>
 令Q=Sπ,请编程对给出的N和M，找出蛋糕的制作方案（适当的Ri和Hi的值），使S最小。</p><p>
 (除Q外，以上所有数据皆为正整数）</p><p>

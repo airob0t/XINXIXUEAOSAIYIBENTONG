@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1152：最大数max(x,y,z)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6192     通过数: 4339 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1152：最大数max(x,y,z)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 6201     通过数: 4344 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>已知:</p><p>
 $m=\frac{\max(a,b,c)}{\max(a+b,b,c) × \max(a,b,b+c)}$</p><p>
 输入$a,b,c$，求$m$。把求三个数的最大数$max(x,y,z)$分别定义成函数和过程来做。</p>

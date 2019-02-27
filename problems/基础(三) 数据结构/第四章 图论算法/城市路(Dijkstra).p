@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1381：城市路(Dijkstra)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3142     通过数: 881 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1381：城市路(Dijkstra)</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 3145     通过数: 881 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>罗老师被邀请参加一个舞会，是在城市n，而罗老师当前所处的城市为1,附近还有很多城市2~n-1，有些城市之间没有直接相连的路，有些城市之间有直接相连的路，这些路都是双向的，当然也可能有多条。</p><p>
 现在给出直接相邻城市的路长度，罗老师想知道从城市1到城市n，最短多少距离。</p>
 <h3>【输入】</h3>

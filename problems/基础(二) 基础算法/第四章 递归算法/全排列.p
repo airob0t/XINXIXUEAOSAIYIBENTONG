@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1199：全排列</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2401     通过数: 1731 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1199：全排列</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2402     通过数: 1731 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>给定一个由不同的小写字母组成的字符串，输出这个字符串的所有全排列。</p><p>
 我们假设对于小写字母有‘a’ &lt;‘b’ &lt; ... &lt;‘y’&lt;‘z’，而且给定的字符串中的字母已经按照从小到大的顺序排列。</p><p>
 </p>

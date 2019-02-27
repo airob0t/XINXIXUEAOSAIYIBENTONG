@@ -24,12 +24,12 @@ def main():
     ul = table.find_all('ul')
     title, menus = ul[0], ul[1:]
     parent_dir = list()
-    for dirname in title.find_all('h3'):
+    for dirname in title.find_all('h3'): #找大标题
         dir = dirname.get_text()
         if not os.path.exists(os.path.join(path, dir)):
             os.mkdir(os.path.join(path, dir))
         parent_dir.append(dir)
-    for i,menu in enumerate(menus):
+    for i,menu in enumerate(menus): #小章节
         chapter_path = os.path.join(path, parent_dir[i])
         for li in menu.find_all('li'):
             chapter_name = li.get_text()
@@ -42,10 +42,21 @@ def main():
             menu_page = BeautifulSoup(r.get(site).content)
             table = menu_page.find_all('table')[-1]
             trs = table.find_all('tr')
-            for tr in trs[1:]:
-                t = tr.get_text(separator=' ').split()
-                problem_id = t[0]
-                problem_name = process_name(t[1])
+            problems = []
+            for tr in trs[1:]: #该目录页所有题目
+                tds = tr.find_all('td')
+                problem_id = tds[0].get_text()
+                problem_name = tds[1].get_text()
+                if problem_name and problem_id: # 有可能遇到表格中的小标题
+                    problems.append((problem_id, problem_name))
+                if len(tds) > 4: #第2列
+                    problem_id = tds[5].get_text()
+                    problem_name = tds[6].get_text()
+                    if problem_name and problem_id:  # 有可能遇到表格中的小标题
+                        problems.append((problem_id, problem_name))
+            for problem_id, problem_name in problems:
+                print(problem_id, problem_name)
+                problem_name = process_name(problem_name)
                 problem_page = r.get(site+'problem_show.php?pid={id}'.format(id=problem_id))
                 problem_page = BeautifulSoup(problem_page.content)
                 problem_content = problem_page.find_all('table')[-1]

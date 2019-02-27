@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1491：Tree</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 128     通过数: 40 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1491：Tree</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 129     通过数: 40 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>原题来自：2012 年国家集训队互测</p><p>
 给你一个无向带权连通图，每条边是黑色或白色。让你求一棵最小权的恰好有 need 条白色边的生成树。题目保证有解。</p>
 <h3>【输入】</h3>

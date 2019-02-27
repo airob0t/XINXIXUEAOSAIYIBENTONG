@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1043：整数大小比较</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 19253     通过数: 11250 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1043：整数大小比较</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 19261     通过数: 11255 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>输入两个整数，比较它们的大小。若x&gt;y，输出&gt;；若x=y，输出=；若x&lt;y，输出&lt;。</p>
 <h3>【输入】</h3>
 <p>一行，包含两个整数x和y，中间用单个空格隔开。$0≤x&lt;2^{32}$, $-2^{31}≤y&lt;2^{31}$。</p>

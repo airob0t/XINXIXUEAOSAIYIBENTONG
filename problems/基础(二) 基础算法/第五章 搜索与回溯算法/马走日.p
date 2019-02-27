@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1219：马走日</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2892     通过数: 1528 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1219：马走日</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 2893     通过数: 1529 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>马在中国象棋以日字形规则移动。</p><p>
 请编写一段程序，给定n×m大小的棋盘，以及马的初始位置(x，y)，要求不能重复经过棋盘上的同一个点，计算马可以有多少途径遍历棋盘上的所有点。</p>
 <h3>【输入】</h3>

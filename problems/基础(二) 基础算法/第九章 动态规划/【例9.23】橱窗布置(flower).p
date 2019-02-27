@@ -1,0 +1,1 @@
+<table><tr><td></td><td>花瓶1</td><td>花瓶2</td><td>花瓶3</td><td>花瓶4</td><td>花瓶5</td></tr><tr><td>杜鹃花</td><td>7</td><td>23</td><td>-5</td><td>-24</td><td>16</td></tr><tr><td>秋海棠</td><td>5</td><td>21</td><td>-4</td><td>10</td><td>23</td></tr><tr><td>康乃馨</td><td>-21</td><td>5</td><td>-4</td><td>-20</td><td>20</td></tr></table>

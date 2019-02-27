@@ -1,4 +1,4 @@
-<table width="900"><td class="pcontent"><center><h3>1121：计算矩阵边缘元素之和</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8116     通过数: 4690 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<table width="900"><td class="pcontent"><center><h3>1121：计算矩阵边缘元素之和</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 8121     通过数: 4691 </font><br/></center><font size="2"><h3>【题目描述】</h3>
 <p>输入一个整数矩阵，计算位于矩阵边缘的元素之和。所谓矩阵边缘的元素，就是第一行和最后一行的元素以及第一列和最后一列的元素。</p>
 <h3>【输入】</h3>
 <p> 第一行分别为矩阵的行数m和列数n（m&lt;100，n&lt;100），两者之间以一个空格分开。</p><p>
