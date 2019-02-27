@@ -1,0 +1,1 @@
+<table><tr><td>作业号</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>期限</td><td>1</td><td>1</td><td>3</td><td>3</td><td>2</td><td>2</td><td>6</td></tr><tr><td>学分</td><td>6</td><td>7</td><td>2</td><td>1</td><td>4</td><td>5</td><td>1</td></tr></table>

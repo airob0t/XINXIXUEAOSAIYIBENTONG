@@ -1,0 +1,1 @@
+<table width="70%"><tr><td align="left"><font color="red" size="4">题目不正常，或者是权限类题目!<br/><p>关于权限类用户说明：<br/>如果你的ID具有老师权限，登录后自动成为权限用户。<br/>如果你是某个具有老师权限ID(用户名)的学生，估计是你老师资格过期！</p></font></td></tr></table>

@@ -1,0 +1,10 @@
+<table width="900"><td class="pcontent"><center><h3>1020：打印ASCII码</h3><br/><font size="2">时间限制: 1000 ms         内存限制: 65536 KB<br/>提交数: 14561     通过数: 11537 </font><br/></center><font size="2"><h3>【题目描述】</h3>
+<p>输入一个除空格以外的可见字符（保证在函数scanf中可使用格式说明符%c读入），输出其ASCII码。</p>
+<h3>【输入】</h3>
+<p>一个除空格以外的可见字符。</p>
+<h3>【输出】</h3>
+<p>一个十进制整数，即该字符的ASCII码。</p>
+<h3>【输入样例】</h3>
+<font size="3"><div style="padding-left:24px;"><pre>A</pre></div>
+<font size="2"><h3>【输出样例】</h3>
+<font size="3"><div style="padding-left:24px;"><pre>65</pre></div><font size="2"><h3>【来源】</h3><br/><font size="2"><a class="bottom_link" href="problem_search.php?searchsource=No">No</a><p align="center"> <a class="bottom_link" href="submit.php?pid=1020"> 提交 </a> <a class="bottom_link" href="problem_stat.php?pid=1020"> 统计信息 </a> </p></font></font></font></font></font></font></td></table>

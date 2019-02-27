@@ -1,0 +1,1 @@
+<table><tr><td>25 7</td><td>--&gt;</td><td>11 7</td><td>--&gt;</td><td>4 7</td><td>--&gt;</td><td>4 3</td><td>--&gt;</td><td>1 3</td><td>--&gt;</td><td>1 0</td></tr><tr><td></td><td>选手1取</td><td></td><td>选手2取</td><td></td><td>选手1取</td><td></td><td>选手2取</td><td></td><td>选手1取</td></tr></table>

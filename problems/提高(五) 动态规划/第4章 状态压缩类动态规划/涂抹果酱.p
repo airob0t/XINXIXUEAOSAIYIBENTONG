@@ -1,0 +1,1 @@
+<table border="1" bordercolor="#a0c6e5" style="border-collapse:collapse;"><tr><td>方案一</td><td>方案二</td><td>方案三</td></tr><tr><td>$2\ 3$</td><td>$2\ 3$</td><td>$2\ 3$</td></tr><tr><td>$1\ 2$</td><td>$3\ 1$</td><td>$3\ 2$</td></tr></table>
